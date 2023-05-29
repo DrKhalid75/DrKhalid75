@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrKhalid75
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning PhD in Computer Science
+- 🌱 I’m Now Doctor in Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
